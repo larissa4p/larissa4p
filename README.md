@@ -3,10 +3,11 @@
 
 - 🔭 Apaixonada por tecnologia
 - 🌱 Estudando JavaScript
+- 
 <div align="center">
   <a href="https://github.com/larissa4p">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa4p&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=larissa4p&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa4p&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -25,7 +26,7 @@
 
 <div> 
   <a href="https://instagram.com/larissa4p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="discord.com/channels/@laris#2373" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/WrWkYyK8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:larissabessa4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://https://www.linkedin.com/in/larissa-bessa-37b2b4230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
