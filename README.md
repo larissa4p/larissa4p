@@ -39,4 +39,4 @@
   <a href="https://https://www.linkedin.com/in/larissa-bessa-37b2b4230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/larissa4p/larissa4p/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/larissa4p/larissa4p/blob/output/github-contribution-grid-snake.svg)
