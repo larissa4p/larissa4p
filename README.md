@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonada por tecnologia e gamer nas horas vagas
-- 🌱 Estudando React
+- 🌱 Estudando NextJS
 - 👩🏻‍💻 Developer Front-End
 - 🔍 Aberta a desafios para a minha evolução.
 
@@ -10,7 +10,7 @@
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=larissa4p&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=)![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissa4p&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=larissa4p&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=)![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissa4p&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
 
