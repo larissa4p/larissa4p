@@ -1,38 +1,90 @@
-### Hey!! ✋
+# Olá! Eu sou a Larissa Bessa 👋
 
+### Desenvolvedora Web | Front-End
 
-- 🔭 Apaixonada por tecnologia e gamer nas horas vagas
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 👩🏻‍💻 Developer Front-End
-- 🔍 Aberta a desafios para a minha evolução.
+Desenvolvedora Web com mais de 4 anos de experiência em desenvolvimento e manutenção de projetos web.
 
-"O êxito da vida não se mede pelo caminho que você conquistou, mas sim pelas dificuldades que superou no caminho."
+Atuo principalmente com **WordPress, PHP, JavaScript, React.js e Next.js**, desenvolvendo soluções personalizadas de acordo com as necessidades de cada projeto.
 
+No WordPress, trabalho diretamente com código, desenvolvendo **temas personalizados utilizando Underscores (_s) e Tailwind CSS**, além da criação de **plugins e funcionalidades próprias em PHP**.
 
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="Larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Larissa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />
-  <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Larissa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-  <img align="center" alt="Larissa-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Larissa-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Larissa-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Larissa-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="Larissa-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-  <img align="center" alt="Larissa-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Larissa-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img align="center" alt="Larissa-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </div>
+Também tenho experiência com **TypeScript, Laravel, APIs REST, consumo de APIs, WooCommerce, bancos de dados, Git/GitHub, Docker, deploy e AWS/S3**.
 
-##
+---
 
-<div>
-  <a href="https://instagram.com/larissa4p" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/WrWkYyK8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:larissabessa4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/larissa-bessa-37b2b4230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 🛠️ Tecnologias
 
-![Snake animation](https://github.com/larissa4p/larissa4p/blob/output/github-contribution-grid-snake.svg)
+### Front-End
+
+<p>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" />
+</p>
+
+### WordPress / Back-End
+
+* WordPress
+* PHP
+* Underscores (_s)
+* Desenvolvimento de temas personalizados
+* Desenvolvimento de plugins
+* WooCommerce
+* Laravel
+* APIs REST
+* Consumo e integração de APIs
+
+### Cloud / DevOps
+
+* AWS / S3
+* Docker
+* Deploy
+* Git
+* GitHub
+
+### Ferramentas
+
+* Figma
+* VS Code
+* Bancos de dados
+* Desenvolvimento responsivo
+* Componentização
+
+---
+
+## 💼 Experiência
+
+Atualmente atuo como **Desenvolvedora Front-End na Supernova Design e Tecnologia**, trabalhando desde 2022 com desenvolvimento e manutenção de projetos web.
+
+Minha atuação envolve desenvolvimento de **temas e plugins WordPress, interfaces responsivas, integrações com APIs, React, Next.js, PHP e outras tecnologias utilizadas no desenvolvimento de aplicações web**.
+
+---
+
+## 🎓 Formação
+
+**Análise e Desenvolvimento de Sistemas — Estácio**
+2023 – 2025
+
+---
+
+## 📫 Contato
+
+<a href="mailto:larissabessa4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/larissa4p/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/larissa4p" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+---
+
+**Desenvolvedora Web | Front-End | WordPress | React.js | Next.js | PHP**
